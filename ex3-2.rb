@@ -1,3 +1,4 @@
+# Copyright (C) 2016 HaaRyuu Rights Reserved.
 def sekai
  puts "Hello 世界"
 end

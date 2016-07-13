@@ -1,3 +1,4 @@
+# Copyright (C) 2016 HaaRyuu Rights Reserved.
 a = 4
 b = 10
 c = 5

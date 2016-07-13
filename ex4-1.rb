@@ -1,7 +1,8 @@
-__LINE__ 
+# Copyright (C) 2016 HaaRyuu Rights Reserved.
+puts __LINE__ 
 
+puts "行数 = #{__LINE__}"
 
-__ENCODING__ 
+puts "エンコーディング =  #{__ENCODING__}"
 
-
-__FILE__
+puts "ファイル名 = #{__FILE__}"

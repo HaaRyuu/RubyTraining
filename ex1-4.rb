@@ -1,3 +1,4 @@
+# Copyright (C) 2016 HaaRyuu Rights Reserved.
 # haruさんの答え
 def foo(x)
   print "\nuse foo input:#{x}\n"

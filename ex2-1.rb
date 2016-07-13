@@ -1,3 +1,4 @@
+# Copyright (C) 2016 HaaRyuu Rights Reserved.
 # number = [ "0", "1", "2", "3", "4" ] これは文字列の配列
 number = [ 0, 1, 2, 3, 4] # これが数字の配列
 #一番目の数字は

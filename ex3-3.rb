@@ -1,3 +1,4 @@
+# Copyright (C) 2016 HaaRyuu Rights Reserved.
 file = open(ARGV[0])
 
 total = 0

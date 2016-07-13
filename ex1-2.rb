@@ -1,3 +1,4 @@
+# Copyright (C) 2016 HaaRyuu Rights Reserved.
 # print
 print("Hello 世界.\n")
 # 文字と数字を分けない
